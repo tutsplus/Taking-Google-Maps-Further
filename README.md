@@ -1,4 +1,4 @@
-### Envato Tuts+ Tutorial Series: The Google Maps API For Designers
+### Envato Tuts+ Tutorial Series: [The Google Maps API For Designers](https://webdesign.tutsplus.com/series/the-google-maps-api-for-designers--webdesign-15635)
 #### Instructor: [Emily Bennett](https://tutsplus.com/authors/emily-bennett)
 
 The Google Maps API allows for a huge amount of flexibility, without needing to be a JavaScript God. If you're prepared to get your hands dirty, dive into the API with me and together we'll build a highly original and personalised Google Map!
